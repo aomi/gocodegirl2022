@@ -1,0 +1,33 @@
+/*
+  Background styling
+*/
+body {
+  font-family: sans-serif;
+  background-color: aliceblue;
+}
+
+/*
+  How to add css:
+  1. Add your custom name after a '#'. This will make sure that
+  the styling you set is applied to your code!
+  2. Add a pair of curly brackets after your name
+  3. Add style attributes in-between your curly brackets. Go wild!
+  4. Make sure to add ';' at the end of each line!
+*/
+#vikelabs-container {
+  background-color: lightblue;
+  text-align: center;
+}
+#vikelabs-title {
+  color: darkblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 10px;
+}
+#vikelabs-small-title {
+  font-style: italic;
+  color: lightskyblue;
+}
+
+#samantha-cat-photo {
+  border-radius: 6em;
+}
